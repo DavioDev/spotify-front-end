@@ -1,7 +1,7 @@
 ### Hi, how are you 👋
 
 
-### 🎼 SPOTYFI FRONT-END 🎼 
+### 🎼 SPOTIFY FRONT-END 🎼 
 - 🎼 add back end soon
 - 🎼 made in css and html the front-end aesthetics part
 ---------
